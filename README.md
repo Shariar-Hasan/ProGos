@@ -2,7 +2,6 @@
 
 <div align="center">
 
-![License](https://img.shields.io/github/license/Shariar-Hasan/ProGos)
 ![Repository Size](https://img.shields.io/github/repo-size/Shariar-Hasan/ProGos)
 ![Last Commit](https://img.shields.io/github/last-commit/Shariar-Hasan/ProGos)
 ![Contributors](https://img.shields.io/github/contributors/Shariar-Hasan/ProGos)
