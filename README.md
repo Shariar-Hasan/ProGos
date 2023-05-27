@@ -45,7 +45,7 @@ Please ensure that you have the necessary rights or permissions to contribute th
 
 ## Issues
 
-If your have any issue about the repository, you can open a issue in the repository.
+If your have any issue about the repository, you can [open an issue](https://github.com/Shariar-Hasan/ProGos/issues) in the repository.
 
 ## License
 
