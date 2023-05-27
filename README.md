@@ -29,6 +29,7 @@ Please navigate to the respective folders to find the logos of your choice.
 ## Usage
 
 To use a logo, you can either directly download the logo file from this repository or use the provided URLs in your projects. Make sure to follow the usage guidelines and licensing restrictions of each website's logo.
+To use the icon without downloading, Just click on the desired icon and press `Copy permalink` from the option menu. You will get a link. You just have to replace the `https://github.com/Shariar-Hasan/ProGos/blob/` portion of the url with `https://raw.githubusercontent.com/Shariar-Hasan/ProGos/`. Its better to fork the repository on your own account, and then use the permalink, so any future update on main repository wont effect your link 😁 
 
 ## Contributing
 
@@ -43,6 +44,7 @@ Contributions to this repository are welcome! If you have logos of additional co
 Please ensure that you have the necessary rights or permissions to contribute the logos.
 
 ## Issues
+
 If your have any issue about the repository, you can open a issue in the repository.
 
 ## License
