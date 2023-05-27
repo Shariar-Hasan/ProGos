@@ -9,7 +9,7 @@
 </div>
 
 ![Banner](./Banner.png)
-This repository collects logos of popular programming websites in various sizes. The logos can be used by developers and contributors for their projects or contributions. Feel free to use and contribute to this collection.
+This repository collects logos of popular programming websites in various sizes. Basically, not all programming website logo(s) are not available  online, thats where i get the idea to  bring them all together. The logo(s) can be used by developers and contributors for their projects or contributions. Feel free to use or contribute to this collection.
 
 ## Logos
 
