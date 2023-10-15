@@ -8,6 +8,10 @@
   box-sizing: border-box;
 }
 
+.p{
+  text-align: center;
+}
+
 html {
   background-color: #ecf9ff;
 }
