@@ -82,7 +82,7 @@ const dataset = [
   {
     title: "Codecademy",
     slug: "codecademy",
-    addedBy: "Shariar-Hasan",
+    addedBy: "SUMITHSAI",
     cardImagePath: "./RandomSize/codecademy.png",
     sizes: [
       { title: "16×16", folderPath: "./16/", format: "png" },

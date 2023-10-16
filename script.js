@@ -8,9 +8,9 @@ document.addEventListener("DOMContentLoaded", () => {
     li.innerHTML = `
           <div class="card">
             <div class="card_image">
-              <img src=${data.cardImagePath} alt=${data.title} title=${
-      data.title
-    } style="padding-bottom: 2.8rem" />
+              <img src=${data.cardImagePath}  title="Added by ${
+      data.addedBy
+    }" alt=${data.title} style="padding-bottom: 2.8rem" />
             </div>
             <div class="card_content">
               <div class="box">

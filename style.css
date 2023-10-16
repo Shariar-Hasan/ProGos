@@ -40,6 +40,7 @@ img {
   height: auto;
   width: 100%;
   vertical-align: middle;
+  cursor: pointer;
 }
 
 .btn {
@@ -54,29 +55,12 @@ img {
   cursor: pointer;
   border: 1px solid rgba(255, 255, 255, 0.777);
   background: transparent;
+  transition: all .15s ease-in-out;
 }
 
 .btn:hover {
   background-color: rgba(255, 255, 255, 0.12);
 }
-.btn1 {
-  color: #ffffff;
-  padding: 0.8rem;
-  font-size: 14px;
-  text-transform: uppercase;
-  border-radius: 4px;
-  font-weight: 400;
-  display: block;
-  width: 45%;
-  cursor: pointer;
-  border: 1px solid rgba(255, 255, 255, 0.2);
-  background: transparent;
-}
-
-.btn1:hover {
-  background-color: rgba(255, 255, 255, 0.12);
-}
-
 .cards {
   display: flex;
   flex-wrap: wrap;
@@ -111,7 +95,6 @@ img {
   box-shadow: 0 20px 40px -14px rgba(0, 0, 0, 0.25);
   display: flex;
   flex-direction: column;
-  
 }
 
 .card_content {
@@ -123,10 +106,9 @@ img {
   justify-content: space-between;
   flex-direction: row;
   flex-wrap: wrap;
-  gap: 1rem;
+  gap: 0.5rem;
   width: 100%;
   height: 100%;
-
 }
 .box > a {
   /* display: inline-block; */
