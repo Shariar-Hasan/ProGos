@@ -22,7 +22,7 @@ The logos are available in different sizes and can be found in the corresponding
 - `64x64`
 - `96x96`
 - `128x128`
-- `512x512` (random square size)
+- `512x512` (or any random square size)
 
 Please navigate to the respective folders to find the logos of your choice.
 
@@ -50,7 +50,7 @@ Special thanks to the following websites for providing their logos:
 - `AtCoder`
 - `Codeforces`
 - `Codechef`
-- `CodeByte`
+- `CoderByte`
 - `Codewars`
 - `Codecademy`
 - `freeCodeCamp`

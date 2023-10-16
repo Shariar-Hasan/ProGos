@@ -1,5 +1,5 @@
 /* Font */
-@import url('https://fonts.googleapis.com/css?family=Quicksand:400,700');
+@import url("https://fonts.googleapis.com/css?family=Quicksand:400,700");
 
 /* Design */
 *,
@@ -8,7 +8,7 @@
   box-sizing: border-box;
 }
 
-.p{
+.p {
   text-align: center;
 }
 
@@ -18,41 +18,41 @@ html {
 
 body {
   color: #272727;
-  font-family: 'Quicksand', serif;
+  font-family: "Quicksand", serif;
   font-style: normal;
   font-weight: 400;
   letter-spacing: 0;
   padding: 1rem;
 }
 
-.main{
+.main {
   max-width: 1200px;
   margin: 0 auto;
 }
 
 h1 {
-    font-size: 24px;
-    font-weight: 400;
-    text-align: center;
+  font-size: 24px;
+  font-weight: 400;
+  text-align: center;
 }
 
 img {
   height: auto;
-  max-width: 100%;
+  width: 100%;
   vertical-align: middle;
 }
 
 .btn {
-  color: #ffffff;
+  color: #585858;
   padding: 0.8rem;
   font-size: 14px;
   text-transform: uppercase;
   border-radius: 4px;
   font-weight: 400;
-  display: block;
-  width: 150%;
+  display: inline-block;
+  width: 100%;
   cursor: pointer;
-  border: 1px solid rgba(255, 255, 255, 0.2);
+  border: 1px solid rgba(255, 255, 255, 0.777);
   background: transparent;
 }
 
@@ -88,10 +88,9 @@ img {
 .cards_item {
   display: flex;
   padding: 1rem;
-  
 }
-.card_image{
-   padding: 5rem;
+.card_image {
+  padding: 5rem;
 }
 
 @media (min-width: 40rem) {
@@ -112,41 +111,30 @@ img {
   box-shadow: 0 20px 40px -14px rgba(0, 0, 0, 0.25);
   display: flex;
   flex-direction: column;
-  overflow: hidden;
+  
 }
 
 .card_content {
-  padding: 1rem;
-  background: linear-gradient(to bottom left, #EF8D9C 40%, #FFC39E 100%);
+  padding: 10px;
+  background: linear-gradient(to bottom left, #ef8d9c 40%, #ffc39e 100%);
 }
+.box {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 1rem;
+  width: 100%;
+  height: 100%;
 
-/* .card_title {
-  color: #ffffff;
-  font-size: 1.1rem;
-  font-weight: 700;
-  letter-spacing: 1px;
-  text-transform: capitalize;
-  margin: 0px;
-} */
-
-/* .card_text {
-  color: #ffffff;
-  font-size: 0.875rem;
-  line-height: 1.5;
-  margin-bottom: 1.25rem;    
-  font-weight: 400;
-} */
-.made_by{
+}
+.box > a {
+  /* display: inline-block; */
+  flex-grow: 1;
+}
+.made_by {
   font-weight: 500;
   font-size: 18px;
   margin-top: 35px;
   text-align: center;
-}
-
-.box{
-  display: flex;
-  flex-direction: row;
-  gap: 40px;
-  width: 100%;
-  margin-bottom: 20px;
 }
