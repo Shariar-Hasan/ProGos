@@ -8,7 +8,7 @@ Contributions to this repository are always welcome! If you have logos of additi
 - Fork this repository.
 - clone the repostory:
 ```
-git clone https://github.com/Shariar-Hasan/ProGos.git
+git clone https://github.com/<Your-user-name>/ProGos.git
 ```
 - switch to developer branch
 ```
