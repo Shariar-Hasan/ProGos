@@ -31,7 +31,7 @@ Please navigate to the respective folders to find the logos of your choice.
 ## 📃 Usage
 
 To use a logo, you can either directly download the logo file from this repository or use the provided URLs in your projects. Make sure to follow the usage guidelines and licensing restrictions of each website's logo.
-To use the icon without downloading, Just click on the desired icon and press `Copy permalink` from the option menu. You will get a link. You just have to replace the `https://github.com/Shariar-Hasan/ProGos/blob/` portion of the url with `https://raw.githubusercontent.com/Shariar-Hasan/ProGos/`. Or you can just right click on the icon and copy image link. Its better to fork the repository on your own account, and then use the permalink, so any future update on main repository wont effect your link **_(In that case, carful about the username of the repository, it to be yours)_** 😁
+To use the icon without downloading, Just click on the desired icon and press `Copy permalink` from the option menu. You will get a link. You just have to replace the `https://github.com/Shariar-Hasan/ProGos/blob/` portion of the url with `https://raw.githubusercontent.com/Shariar-Hasan/ProGos/`. Or you can just right click on the icon and copy image link. Its better to fork the repository on your own account, and then use the permalink, so any future update on main repository wont effect your link **_(In that case, carful about the username of the repository, which is yours)_** 😁
 
 ## 🛂 Contributing
 
@@ -49,21 +49,22 @@ The logos in this repository are subject to the individual licensing and usage g
 
 Special thanks to the following websites for providing their logos:
 
-- `AtCoder`
-- `Codeforces`
-- `Codechef`
-- `CoderByte`
-- `Codewars`
-- `Codecademy`
-- `freeCodeCamp`
-- `GeeksforGeeks`
-- `HackerEarth`
-- `HackerRank`
-- `ICPC`
-- `LeetCode`
-- `SPOJ`
-- `Topcoder`
-- `Toph`
+- `AtCoder.com`
+- `Codeforces.com`
+- `Codechef.com`
+- `CoderByte.com`
+- `Codewars.com`
+- `Codecademy.com`
+- `CodingGame.com`
+- `freeCodeCamp.com`
+- `GeeksforGeeks.com`
+- `HackerEarth.com`
+- `HackerRank.com`
+- `ICPC.com`
+- `LeetCode.com`
+- `SPOJ.com`
+- `Topcoder.com`
+- `Toph.co`
 
 #### 🙏🥳❤️Thanks to all the contributors for their belovable contribution in this project
 

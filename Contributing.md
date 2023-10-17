@@ -72,7 +72,7 @@ There can be many things you can do.
 
 - Each logos must be in their corresponding folder
 - In case you want to add a logo which is already in our list, then you have to provide a better resolution for the logo and also give a short description why your logo is better (You can give a one line comparison).
-- In case you want to add a logo which is not in our list, then you have to add all the size in the folder structure mentions  [in here](./README.md#logos). And you have to update the readme file, according to your logo change.
+- In case you want to add a logo which is not in our list, then you have to add all the size in the folder structure mentions  [in here](./README.md#logos). And you have to update the readme file, and the [data.js](./data.js) file (carefully) according to your logo change.
 - In case you want to add any new size, you have to do it for all the other logos available in this project. Then you have to crete logo for each, make folder for each, update the readme file as you added new logo.
 - For pull request add `feat:` in prefix of  your PR title for adding logo. for example:
     ```
