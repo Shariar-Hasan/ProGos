@@ -10,9 +10,10 @@ document.addEventListener("DOMContentLoaded", () => {
             <div class="card_image">
               <img src=${data.cardImagePath}  title="Added by ${
       data.addedBy
-    }" alt=${data.title} style="padding-bottom: 2.8rem" />
+    }" alt=${data.title} style="padding-bottom: 0" />
             </div>
             <div class="card_content">
+            <h4 class="text-center">${data.title}</h4>
               <div class="box">
                 ${data.sizes
                   .map(

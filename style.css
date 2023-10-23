@@ -70,13 +70,26 @@ img {
 }
 
 .cards_item {
-  display: flex;
+  display: block;
   padding: 1rem;
 }
 .card_image {
   padding: 5rem;
 }
-
+.card_content{
+  height: auto;
+}
+.text-center{
+  text-align: center;
+}
+.contribute-btn{
+  padding: 3px 10px;
+  border-radius: 40px;
+  font-size: 20px;
+  background-color: #272727;
+  color: white;
+  cursor: pointer;
+}
 @media (min-width: 40rem) {
   .cards_item {
     width: 50%;
