@@ -60,11 +60,13 @@ Special thanks to the following websites for providing their logos:
 - `GeeksforGeeks.com`
 - `HackerEarth.com`
 - `HackerRank.com`
+- `Html.com`
 - `ICPC.com`
 - `LeetCode.com`
 - `SPOJ.com`
 - `Topcoder.com`
 - `Toph.co`
+
 
 #### 🙏🥳❤️Thanks to all the contributors for their belovable contribution in this project
 
