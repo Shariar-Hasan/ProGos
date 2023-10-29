@@ -71,8 +71,13 @@ img {
 
 .cards_item {
   display: block;
-  padding: 1rem;
+  padding: 2rem;
+  transition: transform 0.3s ease-in-out;
 }
+.cards_item:hover{
+  transform: scale(1.1);
+}
+
 .card_image {
   padding: 5rem;
 }
